@@ -83,41 +83,4 @@ SELECT
 FROM silver.ssf;
 GO
 
--- ============================================================
--- Creating Denormalized Sales View: gold.vw_sales
--- Joins Fact with all Dimensions for direct reporting
--- ============================================================
-IF OBJECT_ID('gold.vw_sales', 'V') IS NOT NULL
-    DROP VIEW gold.vw_sales;
-GO
-
-CREATE VIEW gold.vw_sales AS
-SELECT
-    f.row_id,
-    f.order_id,
-    f.order_date,
-    f.ship_date,
-    f.ship_mode,
-    f.customer_id,
-    c.customer_name,
-    c.segment,
-    c.country,
-    c.city,
-    c.state_name,
-    c.postal_code,
-    c.region,
-    f.product_id,
-    p.category,
-    p.sub_category,
-    p.product_name,
-    f.sales,
-    f.quantity,
-    f.unit_price,
-    f.discount,
-    f.profit
-FROM gold.fact_sales f
-LEFT JOIN gold.dim_customers c ON f.customer_id = c.customer_id
-LEFT JOIN gold.dim_products p ON f.product_id = p.product_id;
-GO
-
 
