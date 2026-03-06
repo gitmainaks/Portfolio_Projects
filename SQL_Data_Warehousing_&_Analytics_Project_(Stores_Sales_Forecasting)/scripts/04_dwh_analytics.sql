@@ -15,7 +15,7 @@ SELECT
     TABLE_TYPE
 FROM INFORMATION_SCHEMA.TABLES;
 
--- Retrieving all columns for a specific table (vw_sales)
+-- Retrieving all columns for a specific table (fact_sales)
 SELECT
     COLUMN_NAME,
     DATA_TYPE,
@@ -660,5 +660,6 @@ FROM product_aggregations;
 GO
 
 SELECT * FROM gold.report_products;
+
 
 
