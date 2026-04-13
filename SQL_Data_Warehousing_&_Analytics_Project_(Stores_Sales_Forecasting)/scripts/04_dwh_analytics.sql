@@ -61,9 +61,9 @@ ORDER BY sub_category;
 
 
 /*
-=================================================================
+========================================================================
 3. Date Range Exploration (To determine the temporal boundaries)
-=================================================================
+========================================================================
 */
 
 -- Determining the first and last order date and the total duration in months
@@ -123,9 +123,9 @@ SELECT 'Total Products', COUNT(DISTINCT product_id) FROM gold.fact_sales;
 
 
 /*
-=======================================================================
+===================================================================================
 5. Magnitude Analysis (To Understand data distribution across categories)
-=======================================================================
+===================================================================================
 */
 
 -- Finding total customers by states
@@ -233,9 +233,9 @@ ORDER BY total_sold_items DESC;
 
 
 /*
-=============================================================
+=====================================================================
 6. Ranking Analysis (To identify top performers 0r laggards)
-=============================================================
+=====================================================================
 */
 
 -- Which 5 products generating the highest revenue? (simple ranking)
@@ -580,7 +580,7 @@ SELECT * FROM gold.report_customers;
 
 /*
 ============================================================
-13. Product Report
+13. Product Report (gold.report_products)
 ============================================================
 */
 
