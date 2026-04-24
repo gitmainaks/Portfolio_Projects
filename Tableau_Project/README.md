@@ -1,8 +1,7 @@
 # 📊 Sales & Customer Dashboard – Tableau Project
 
-![Tableau](https://img.shields.io/badge/Made%20with-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
 
 A modern, interactive Tableau dashboard designed to uncover sales trends, profitability patterns, and top‑performing customers by comparing key metrics across **2017 vs 2016**.
 
@@ -19,8 +18,6 @@ This project visualises business performance using two core dashboard pages:
   Monthly comparison KPIs and a ranked table of the **Top 10 Customers by Profit**, complete with last order dates and order counts.
 
 All dashboards are built with a clean, professional layout suitable for executive reporting.
-
-> 📄 A full static snapshot of the dashboard is available in the [`Dashboard Overview & SS.pdf`](./Dashboard%20Overview%20%26%20SS.pdf) file within this repository.
 
 ---
 
