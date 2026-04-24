@@ -107,5 +107,4 @@ Inside you’ll find:
 <div align="center">
 
 <p align="center">
-  <sub>💡 <strong>Pro tip:</strong> Replace the placeholder logo above with your own project banner or icon to make this README truly yours.</sub>
-</p>
+
