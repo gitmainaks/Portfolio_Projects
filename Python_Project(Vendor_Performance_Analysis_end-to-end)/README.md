@@ -6,13 +6,13 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn?style=for-the-badge&logo=python&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy?style=for-the-badge&logo=scipy&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+https://img.shields.io/static/v1?label=Python&message=&color=3776AB&style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/static/v1?label=Jupyter&message=&color=F37626&style=for-the-badge&logo=jupyter&logoColor=white
+https://img.shields.io/static/v1?label=pandas&message=&color=150458&style=for-the-badge&logo=pandas&logoColor=white
+https://img.shields.io/static/v1?label=Matplotlib&message=&color=11557c&style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/static/v1?label=Seaborn&message=&color=9cf&style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/static/v1?label=SciPy&message=&color=8C8C8C&style=for-the-badge&logo=scipy&logoColor=white
+https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge
 
 </div>
 
