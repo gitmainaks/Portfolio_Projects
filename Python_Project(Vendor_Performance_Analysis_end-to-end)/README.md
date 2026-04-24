@@ -76,7 +76,6 @@ We applied a rigorous pre‑processing protocol to safeguard analytical integrit
 
 </div>
 
-*Full set of charts and the final 12‑page report reside in the [`reports/`](reports/) folder.*
 
 ---
 
