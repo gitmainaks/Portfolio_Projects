@@ -81,43 +81,6 @@ Before moving to Silver, every row is checked. Any failed check stops the pipeli
 
 ---
 
-## ⭐ Data Model (Star Schema)
-
-```mermaid
-erDiagram
-    dim_customers {
-        string customer_id PK
-        string customer_name
-        string segment
-        string city
-        string state
-        string region
-        string postal_code
-    }
-    dim_products {
-        string product_id PK
-        string product_name
-        string category
-        string sub_category
-    }
-    fact_sales {
-        string order_id PK
-        date order_date
-        date ship_date
-        string customer_id FK
-        string product_id FK
-        decimal sales
-        int quantity
-        decimal discount
-        decimal profit
-        decimal unit_price
-    }
-    dim_customers ||--o{ fact_sales : "places"
-    dim_products ||--o{ fact_sales : "includes"
-```
-
----
-
 ## 📊 Analytics & Reporting
 
 Once data reaches Gold, the following insights are available **out‑of‑the‑box**:
