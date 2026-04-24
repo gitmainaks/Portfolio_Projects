@@ -33,6 +33,8 @@ This project transforms raw sales records into a trustworthy, structured warehou
 
 ---
 
+🚀 Data Pipeline (ETL)
+
 ### Step‑by‑Step Flow
 
 1. **Pre‑processing (PySpark)** – Removes special characters from product names, trims whitespace, and standardises text before loading.
