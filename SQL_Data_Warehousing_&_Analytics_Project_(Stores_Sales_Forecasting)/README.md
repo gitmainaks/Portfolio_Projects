@@ -1,4 +1,4 @@
-# 🏬 Store Sales Data Warehouse
+# 🏬 Store Sales Data Warehouse & Analytics
 
 ![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-Star%20Schema-blue?style=for-the-badge)
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
