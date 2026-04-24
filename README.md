@@ -14,7 +14,7 @@ Each project demonstrates a complete workflow: data cleaning, modeling, quality 
 
 ---
 
-## 📊 Vendor Performance Analysis  
+## 📊 Vendor Performance Analysis - Python Project  
 **Exploratory Data Analysis & Strategic Insights**  
 `Python` `Pandas` `Matplotlib` `Seaborn` `SciPy` `SQLite` `Power BI`
 
@@ -24,7 +24,7 @@ Each project demonstrates a complete workflow: data cleaning, modeling, quality 
 
 ---
 
-## 🏬 Store Sales Data Warehouse & Analytics  
+## 🏬 Store Sales Data Warehouse & Analytics - SQL Project  
 **Medallion Architecture · SQL Server · PySpark**  
 `PySpark` `SQL Server` `Medallion (Bronze/Silver/Gold)` `Star Schema` `Draw.io`
 
