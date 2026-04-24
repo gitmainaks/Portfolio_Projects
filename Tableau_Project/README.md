@@ -3,7 +3,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
 
-A modern, interactive Tableau dashboard designed to uncover sales trends, profitability patterns, and top‑performing customers by comparing key metrics across **2017 vs 2016**.
+A modern, interactive Tableau dashboard designed to uncover sales trends, profitability patterns, and top‑performing customers by comparing key metrics.
 
 ---
 
