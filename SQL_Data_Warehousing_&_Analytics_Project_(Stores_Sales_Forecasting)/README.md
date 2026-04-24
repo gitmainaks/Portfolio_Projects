@@ -33,7 +33,7 @@ This project transforms raw sales records into a trustworthy, structured warehou
 
 ---
 
-🚀 Data Pipeline (ETL)
+## 🚀 Data Pipeline (ETL)
 
 ### Step‑by‑Step Flow
 
