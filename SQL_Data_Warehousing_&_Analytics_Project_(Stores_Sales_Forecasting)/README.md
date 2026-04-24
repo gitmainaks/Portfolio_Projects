@@ -32,17 +32,6 @@ This project transforms raw sales records into a trustworthy, structured warehou
 
 ---
 
-## 🚀 Data Pipeline (ETL)
-
-graph LR
-    A[Raw CSV] -->|PySpark Pre‑processing| B[Bronze Table]
-    B -->|SQL Stored Procedure| C[Silver Table]
-    C -->|SQL Views| D[Gold Layer (Star Schema)]
-    D --> E[Report Views]
-    E --> F[Dashboards Power BI / Tableau]
-
----
-
 ### Step‑by‑Step Flow
 
 1. **Pre‑processing (PySpark)** – Removes special characters from product names, trims whitespace, and standardises text before loading.
