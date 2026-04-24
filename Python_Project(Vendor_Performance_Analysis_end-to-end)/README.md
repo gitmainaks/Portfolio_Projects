@@ -1,10 +1,6 @@
 # 📦 Vendor Performance Analysis
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x200/2d3748/ffffff?text=Vendor+Performance+Analysis+Logo" alt="Project Logo" width="600"/>
-</p>
-
-<p align="center">
   <em>Uncovering procurement efficiencies, inventory bottlenecks, and margin mysteries across 10,692 transactions</em>
 </p>
 
@@ -104,6 +100,4 @@ Inside you’ll find:
 ---
 
 <div align="center">
-
-<p align="center">
 
