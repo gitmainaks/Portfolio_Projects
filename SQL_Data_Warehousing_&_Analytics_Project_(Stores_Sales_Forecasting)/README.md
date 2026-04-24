@@ -4,8 +4,6 @@
 ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Medallion Architecture](https://img.shields.io/badge/Architecture-Medallion%20(Bronze%2FSilver%2FGold)-gold?style=for-the-badge)
-[![Power BI Ready](https://img.shields.io/badge/Ready%20for-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#)
-[![Tableau Ready](https://img.shields.io/badge/Ready%20for-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](#)
 
 A robust, analytics-ready data warehouse for store sales, built from raw CSV transactions using a modern medallion architecture. Clean, validated data flows through **Bronze → Silver → Gold** layers, ending in a star schema with pre-built customer and product report views — ready to power dashboards in minutes.
 
@@ -36,14 +34,14 @@ This project transforms raw sales records into a trustworthy, structured warehou
 
 ## 🚀 Data Pipeline (ETL)
 
-```mermaid
 graph LR
     A[Raw CSV] -->|PySpark Pre‑processing| B[Bronze Table]
     B -->|SQL Stored Procedure| C[Silver Table]
     C -->|SQL Views| D[Gold Layer (Star Schema)]
     D --> E[Report Views]
     E --> F[Dashboards Power BI / Tableau]
-```
+
+---
 
 ### Step‑by‑Step Flow
 
