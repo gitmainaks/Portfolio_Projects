@@ -40,21 +40,6 @@ Ranked table including customer name, last order date, profit, total sales, and 
 
 ---
 
-## 🖼️ Dashboard Previews
-
-<details>
-<summary>📸 Click to expand screenshots</summary>
-
-### Page 1 – Sales & Profit Overview
-![Dashboard Page 1](images/dashboard_page1.png)
-
-### Page 2 – Customer Deep‑Dive
-![Dashboard Page 2](images/dashboard_page2.png)
-
-</details>
-
----
-
 ## 🔍 Key Insights
 
 - **Seth Vernon** is the most profitable customer, generating **$939** in profit from 4 orders.
