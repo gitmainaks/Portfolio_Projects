@@ -52,7 +52,7 @@ Before moving to Silver, every row is checked. Any failed check stops the pipeli
 | Duplicate / Null PK       | `row_id` is unique and never missing                                        |
 | Leading / Trailing Spaces | All text fields are trimmed – no invisible whitespace                       |
 | Standardisation           | Ship modes, segments, categories, regions use consistent values             |
-| Negative / Null Numbers   | `sales`, `quantity`, `discount`, `profit` are ≥0 and present                |
+| Negative / Null Numbers   | `sales`, `quantity`, `discount` are ≥0 and present                |
 | Invalid Date Order        | `order_date` ≤ `ship_date` (no orders shipped before they were placed)      |
 
 > **How it works:** Each check runs as a SQL query that returns **zero rows** when data is clean. Any returned rows flag issues for immediate resolution.
