@@ -80,42 +80,7 @@ We applied a rigorous pre‑processing protocol to safeguard analytical integrit
 
 ---
 
-## 🗂️ Repository Structure
-
-```
-📁 vendor-performance-analysis/
-├── 📁 data/                  # Raw & processed datasets (if shareable)
-├── 📁 notebooks/            # Jupyter notebooks (step‑by‑step EDA)
-├── 📁 src/                  # Python scripts: cleaning, analysis, viz
-├── 📁 reports/              # Final PDF report & figure exports
-├── 📄 requirements.txt      # Python dependencies
-└── 📄 README.md             # You are here ✨
-```
-
----
-
-## 🚀 Quick Start
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/your-username/vendor-performance-analysis.git
-cd vendor-performance-analysis
-
-# 2. Install dependencies (preferably in a virtual environment)
-pip install -r requirements.txt
-
-# 3. Launch the main analysis
-jupyter notebook notebooks/Vendor_Performance_EDA.ipynb
-```
-
-> 🔒 *The original dataset may be proprietary. A synthetic sample or summary can be provided upon request.*
-
----
-
-## 📚 Full Report
-
-Download the complete strategic report with all findings and recommendations:  
-[📄 **Vendor_Performance_Report.pdf**](reports/Vendor_Performance_Report.pdf)
+## 📚 Report Insight
 
 Inside you’ll find:
 - Detailed summary statistics and outlier commentary
