@@ -42,7 +42,6 @@ Ranked table including customer name, last order date, profit, total sales, and 
 
 ## 🔍 Key Insights
 
-- **Seth Vernon** is the most profitable customer, generating **$939** in profit from 4 orders.
 - The highest‑grossing month in 2017 surpassed the 2016 peak, indicating strong year‑on‑year growth.
 - Certain subcategories show high sales but low profit margins, flagging potential cost‑optimisation opportunities.
 - Regional heatmaps highlight areas where targeted marketing could boost underperforming subcategories.
