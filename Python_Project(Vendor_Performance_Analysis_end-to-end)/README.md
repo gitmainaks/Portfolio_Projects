@@ -106,16 +106,6 @@ Inside you’ll find:
 
 <div align="center">
 
-### 🛠️ Built with ❤️ using
-
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![Jupyter](https://img.icons8.com/fluency/48/000000/jupyter.png)
-![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)
-
-</div>
-
----
-
 <p align="center">
   <sub>💡 <strong>Pro tip:</strong> Replace the placeholder logo above with your own project banner or icon to make this README truly yours.</sub>
 </p>
